@@ -35,3 +35,7 @@ horiseon
 When you open the page you will see the page render and display in the header Horiseon on the left, to the right; search engine optimization, online reputation management, social media marketing. 
 When you click on search engine optimization, online reputation management, social media marketing, it will redirect you to the link and present you with information on the subject.
 I worked on the starter code to make it more unique without including div tags,  
+
+## Example Page
+https://codingobliqua.github.io/fix_horiseons_page/
+![alt text](/assets/horiseons%20page.gif)
